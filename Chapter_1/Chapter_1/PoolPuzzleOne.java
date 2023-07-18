@@ -1,3 +1,5 @@
+package Chapter_1;
+
 class PoolPuzzleOne {
     public static void main(String[] args) {
         int x = 0;
